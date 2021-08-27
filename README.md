@@ -27,6 +27,8 @@ Below are the points we found out as per the analysis of outcomes based on Goals
 3. There were no canceled campaigns for sub category "plays".
 Hence, from our analysis based on goals we can conclude that inorder to run a successful campaign for "plays" Louise need to set her goal within $1,000.
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88418201/131195507-2793e292-7f1e-4823-a528-1c54a00a8591.png)
+
 ### Challenges and Difficulties Encountered
 
 1. One of the challenges which we can look for is to find the outcomes of all the campaigns as per their goal amount and the pledged amount they have collected and then do the analysis based on the outcomes (successful,failed,live and canceled) with respect to the currency for different countries. 
