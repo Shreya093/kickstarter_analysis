@@ -19,6 +19,10 @@ Below are the points we found out as per the analysis based on Launch Date :
 2. We need to create the table by filtering out the parent category by every month on the basis of successful, failed and canceled outcomes of the kickstarter campaign.
 3. Through the pivot table and charts/graphs we conclude that in the month of May the kickstarter campaign was the most successful for all the campaigns under each parent category and in the month of July the campaign had a downfall by the most number of canceled and failed outcomes.
 
+Below is the chart depicting the outcomes of all the campaigns based on their Launch Date :
+
+![Allcampaignsoutcomes](https://user-images.githubusercontent.com/88418201/131195906-a19ff23b-2d24-4116-a997-f9e3bf5697a4.png)
+
 ### Analysis of Outcomes Based on Goals
 
 Below are the points we found out as per the analysis of outcomes based on Goals :
@@ -27,7 +31,9 @@ Below are the points we found out as per the analysis of outcomes based on Goals
 3. There were no canceled campaigns for sub category "plays".
 Hence, from our analysis based on goals we can conclude that inorder to run a successful campaign for "plays" Louise need to set her goal within $1,000.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88418201/131195507-2793e292-7f1e-4823-a528-1c54a00a8591.png)
+Below is the chart depicting the outcomes of "Plays" based on goals:
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88418201/131195977-7c73bf79-49e1-4a43-bc50-f982f63237a4.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -41,6 +47,10 @@ Hence, from our analysis based on goals we can conclude that inorder to run a su
 The two conclusions  on Theater Outcomes based on Launch Date are :
 1. The kickstarer campaign under the parent category "theater" was the most successful in May with 111 theater campaigns.
 2. We also conclude that though May was the most successful based on launch date it also had highest amount of failed theater campaigns. January had the most number of canceled theater campaigns.
+
+Below is the chart depicting the outcomes of "Theater" campaign based on Launch Date :
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88418201/131196110-c67baca3-ae58-4300-9354-7bc34ed16d8a.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
